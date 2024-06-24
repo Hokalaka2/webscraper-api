@@ -1,1 +1,1 @@
-# Newspaper Article Webscraper API
+# Clothing Style API
